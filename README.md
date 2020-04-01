@@ -1,6 +1,6 @@
 # map_app_flutter
 
-A new Flutter application.
+Testing google maps with flutter.
 
 ## Getting Started
 
