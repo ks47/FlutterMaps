@@ -1,0 +1,4 @@
+#Mon Jan 20 23:53:09 IST 2020
+base.0=C\:\\Users\\RBI\\Desktop\\AndroidStudioProjects\\sceneform-android-sdk-1.14.0\\samples\\map_app_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
